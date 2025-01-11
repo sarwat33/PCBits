@@ -31,13 +31,13 @@ This project is built around the **ATTiny85 microcontroller** and includes the f
 ### Key Images
 
 1. **3D PCB View**  
-   ![3D PCB View](./assets/3D.png)
+   ![3D PCB View](./assests/3D.png)
 
 2. **PCB Layout**  
-   ![PCB Layout](./assets/pcb_layout.png)
+   ![PCB Layout](./assests/pcb_layout.png)
 
 3. **Schematic Diagram**  
-   ![Schematic Diagram](./assets/schematic_diagram.png)
+   ![Schematic Diagram](./assests/schematic_diagram.png)
 
 ---
 
