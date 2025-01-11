@@ -20,7 +20,7 @@ Welcome to **PCBits**, a repository where I share my PCB designs, schematics, an
 
 ## 🔧 Featured Design
 
-### **Project: Light and Sound Sensing Unit**
+### **Project: Digitalite -- Reactive to Light and Sound**
 
 This project is built around the **ATTiny85 microcontroller** and includes the following features:
 - **Light Sensing Unit**: Uses an LDR to detect changes in ambient light.
