@@ -39,6 +39,25 @@ This project is built around the **ATTiny85 microcontroller** and includes the f
 3. **Schematic Diagram**  
    ![Schematic Diagram](./assests/schematic_diagram.png)
 
+
+### **Project: Full wave bridge rectifier -- Converts AC to DC output**
+
+This project is built using a Transfomer having two coils,one secondary and one primary coil and includes the following features:
+- Capacitor has been added to clear out the ripples and smoothen the pulsating DC waveform in the output.
+- Resistor has been used as a load.
+
+### Key Images
+
+1. **3D PCB View**  
+   ![3D PCB View](./assests/)
+
+2. **PCB Layout**  
+   ![PCB Layout](./assests/)
+
+3. **Schematic Diagram**  
+   ![Schematic Diagram](./assests/)
+
+
 ---
 
 ## 🛠️ Tools Used
