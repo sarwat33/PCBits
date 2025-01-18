@@ -18,7 +18,7 @@ Welcome to **PCBits**, a repository where I share my PCB designs, schematics, an
 
 ---
 
-## 🔧 Featured Design
+## 🔧 Featured Designs (All the designs are in order)
 
 ### **1) Project: Digitalite -- Reactive to Light and Sound**
 
