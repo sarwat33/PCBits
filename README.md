@@ -49,13 +49,11 @@ This project is built using a Transfomer having two coils,one secondary and one 
 ### Key Images
 
 1. **3D PCB View**  
-   ![3D PCB View](./assests/)
+   ![3D PCB View](./assests/PCB_3D_view.png)
 
 2. **PCB Layout**  
-   ![PCB Layout](./assests/)
+   ![PCB Layout](./assests/PCB_footprint_view.png)
 
-3. **Schematic Diagram**  
-   ![Schematic Diagram](./assests/)
 
 
 ---
