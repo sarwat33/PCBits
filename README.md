@@ -20,7 +20,7 @@ Welcome to **PCBits**, a repository where I share my PCB designs, schematics, an
 
 ## 🔧 Featured Design
 
-### **Project: Digitalite -- Reactive to Light and Sound**
+### **1) Project: Digitalite -- Reactive to Light and Sound**
 
 This project is built around the **ATTiny85 microcontroller** and includes the following features:
 - **Light Sensing Unit**: Uses an LDR to detect changes in ambient light.
@@ -40,7 +40,7 @@ This project is built around the **ATTiny85 microcontroller** and includes the f
    ![Schematic Diagram](./assests/schematic_diagram.png)
 
 
-### **Project: Full wave bridge rectifier -- Converts AC to DC output**
+### **2) Project: Full wave bridge rectifier -- Converts AC to DC output**
 
 This project is built using a Transfomer having two coils,one secondary and one primary coil and includes the following features:
 - Capacitor has been added to clear out the ripples and smoothen the pulsating DC waveform in the output.
