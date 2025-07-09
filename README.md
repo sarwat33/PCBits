@@ -28,13 +28,13 @@ This project is built around the **XL6009 IC** and includes the following featur
 ### Key Images
 
 1. **3D PCB View**  
-   ![3D PCB View](./assests/3D_view_Transformerless_Power_Supply.png)
+   ![3D PCB View](./assests/3D_Boost_Converter.png)
 
 2. **PCB Layout**  
-   ![PCB Layout](./assests/PCB View Transformerless Power Supply.png)
+   ![PCB Layout](./assests/PCB_Boost_Converter.png)
 
 3. **Schematic Diagram**  
-   ![Schematic Diagram](./assests/Schematic View Transformerless Power Supply.png)
+   ![Schematic Diagram](./assests/Schematic_Boost_Converter.png)
 
 ### **2) Project: Transformerless Power Supply**
 
