@@ -19,8 +19,42 @@ Welcome to **PCBits**, a repository where I share my PCB designs, schematics, an
 ---
 
 ## 🔧 Featured Designs (All the designs are in order)
+### **4) Project: DC-DC Boost Converter -- Converts low voltage DC (3.3V-5V) to upto 33V**
 
-### **1) Project: Digitalite -- Reactive to Light and Sound**
+This project is built around the **XL6009 IC** and includes the following features:
+- **Voltage Tuning**: A potentiometer has been used to tune the output voltage
+- **Max Voltage**: 33Volts
+
+### Key Images
+
+1. **3D PCB View**  
+   ![3D PCB View](./assests/3D.png)
+
+2. **PCB Layout**  
+   ![PCB Layout](./assests/pcb_layout.png)
+
+3. **Schematic Diagram**  
+   ![Schematic Diagram](./assests/schematic_diagram.png)
+
+### **2) Project: Transformerless Power Supply**
+
+This project is built around the *LM7805 voltage regulator,Diodes,Zener Diodes,Capacitors and Resistors and THT components** and includes the following features:
+- **LM7805**: Regulates the voltage
+
+### Key Images
+
+1. **3D PCB View**  
+   ![3D PCB View](./assests/3D.png)
+
+2. **PCB Layout**  
+   ![PCB Layout](./assests/pcb_layout.png)
+
+3. **Schematic Diagram**  
+   ![Schematic Diagram](./assests/schematic_diagram.png)
+
+
+
+### **3) Project: Digitalite -- Reactive to Light and Sound**
 
 This project is built around the **ATTiny85 microcontroller** and includes the following features:
 - **Light Sensing Unit**: Uses an LDR to detect changes in ambient light.
@@ -40,7 +74,7 @@ This project is built around the **ATTiny85 microcontroller** and includes the f
    ![Schematic Diagram](./assests/schematic_diagram.png)
 
 
-### **2) Project: Full wave bridge rectifier -- Converts AC to DC output**
+### **1) Project: Full wave bridge rectifier -- Converts AC to DC output**
 
 This project is built using a Transfomer having two coils,one secondary and one primary coil and includes the following features:
 - Capacitor has been added to clear out the ripples and smoothen the pulsating DC waveform in the output.
