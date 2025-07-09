@@ -44,13 +44,13 @@ This project is built around the *LM7805 voltage regulator,Diodes,Zener Diodes,C
 ### Key Images
 
 1. **3D PCB View**  
-   ![3D PCB View](./assests/3D.png)
+   ![3D PCB View](./assests/3D_view_Transformerless_Power_Supply.png)
 
 2. **PCB Layout**  
-   ![PCB Layout](./assests/pcb_layout.png)
+   ![PCB Layout](./assests/PCB_View_Transformerless_Power_Supply.png)
 
 3. **Schematic Diagram**  
-   ![Schematic Diagram](./assests/schematic_diagram.png)
+   ![Schematic Diagram](./assests/Schematic_View_Transformerless_Power_Supply.png)
 
 
 
